@@ -1,0 +1,11 @@
+feature,importance
+member_tenure_years,0.316
+demo_age_group,0.122
+demo_gender,0.086
+demo_income,0.079
+demo_home,0.078
+demo_marital,0.065
+demo_region,0.054
+coverage_level,0.046
+demo_children,0.041
+branch_count,0.021
